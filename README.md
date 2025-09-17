@@ -9,7 +9,7 @@
 
 ### 🔭 Currently I'm...
 - Building projects(n8n right now) for my **portfolio website** and GitHub.
-- Exploring **Python, SQL, and Google Cloud tools**.
+- Exploring **Python, SQL, Low Code aids and Google Cloud tools**.
 
 ### 🌱 Learning
 - **Data Engineering**: pipelines, databases, and data processing.
