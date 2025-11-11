@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Currently I'm...
-- Building projects(n8n right now) for my **portfolio website** and GitHub.
+- Building projects(Selenoum right now) for my **portfolio website** and GitHub.
 - Exploring **Python, SQL, Low Code aids and Google Cloud tools**.
 
 ### 🌱 Learning
