@@ -1,32 +1,31 @@
 ## Hi there 👋, I'm PolarPicado
 
-🌟 **Help Desk | Future Data Engineer**  
-💻 Passionate about **process automation, data analysis, and anything that makes life easier with code**.  
+🌟 **IT Automation Specialist | AI-Driven Support Builder**  
+💻 Passionate about **pautomation, backend systems, and applied AI to improve operations**.  
 
 ---
 <img src="https://i.imgur.com/gyMdjWn.png" width="60" /> <img src="https://i.imgur.com/gyMdjWn.png" width="60" /> <img src="https://i.imgur.com/gyMdjWn.png" width="60" />
 ---
 
 ### 🔭 Currently I'm...
-- Building projects(Selenium right now) for my **portfolio website** and GitHub.
-- Exploring **Python, SQL, Low Code aids and Google Cloud tools**.
+- Building and improving a full **AI support platform**  (Chat + ServiceDesk + Repository + API + n8n).
+- Developing practical workflows with **FastAPI, MongoDB, n8n, and Qdrant**.
 
 ### 🌱 Learning
-- **Data Engineering**: pipelines, databases, and data processing.
-- **Machine Learning and AI** for future projects.
+- **Advanced Data Engineering**: robust pipelines, orchestration, and scalable architectures.
+- **Applied AI** for support systems, retrieval workflows, and intelligent assistants.
 
 ### 👯 Collaboration
-- I love collaborating on **automation and data analysis projects**.
-- Always open to **interesting ideas and creative challenges**.
+- Open to collaborating on **automation, backend, AI support, and data projects**.
+- I enjoy solving real-world operational problems with practical code.
 
 ### 💬 Ask me about
-- Python, SQL, GCP, data analysis, and surviving projects that “get tricky” 😅.
+- Python, FastAPI, automation workflows, IT support systems, n8n, MongoDB, and AI-integrated solutions.
 
 ### ⚡ Fun fact
-- I chose **PolarPicado** because sometimes my ideas “get tricky” with me 😎.
-- I absolutely adore polar bears… seriously a lot!
-- I **love singing**, riding my **motorbike, bicycle, and skateboarding**, reading **manga**, and contributing to **society**.  
-- I also enjoy **music, playing instruments**, and sharing knowledge 🎸🎹🎤.
+- I chose *PolarPicado* because my ideas can get “tricky” in the best way 😎.
+- I really love polar bears.
+- I enjoy singing, riding my motorbike and bicycle, skateboarding, reading manga, and sharing knowledge.
 
 ### 📫 Reach me
 - Email: [joao.basa.18@gmail.com](mailto:joao.basa.18@gmail.com)
@@ -36,4 +35,4 @@
 ---
 
 ### 💌 Let's chat!
-Hey? You know what? How about we chat for a bit, about anything! I bet I have something exciting to share! 🚀
+If you like automation, AI, or building useful systems, let’s connect 🚀
